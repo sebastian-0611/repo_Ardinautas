@@ -1,10 +1,13 @@
 # repo_Ardinautas
 
 ## Integrantes
-- Nombre 1 - Líder
-- Nombre 2 - Diseñador
-- Nombre 3 - Constructor
-- Nombre 4 - Programador
+- Laura Daniela Rincon Dueñas - Líder
+- Andres Felipe Mojica - Diseñador
+- Laura Carolina Rincon - Diseñador
+- Manuel Alejandro Vega - Programador
+- Sebastian Felipe Rivera - Programador
+- Laura Valentina Uscategui - Constructor
+
 
 ## Título del proyecto
 ### Descripción
