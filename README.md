@@ -23,7 +23,7 @@ _tarea del diseñador_
 _tarea del diseñador_
 
 ### Código fuente
-_enlace al código fuente_ - _tarea del programador_
+https://github.com/sebastian-0611/repo_Ardinautas/blob/master/relay.ino
 
 ### Evidencias de construcción
 fotos, vídeos, etc... _tarea del constructor_
